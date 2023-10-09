@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flights</string>
+    <string name="no_network_connectivity">Check your internet connexion!</string>
+    <string name="flights">Flights %1$s - %2$s</string>
+    <string name="confirm">Confirm</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="find_your_flight">Find your flight</string>
+    <string name="empty_label">We couldn\'t find any flights that match your criteria. Try adjusting your search details or checking back later.</string>
+</resources>
